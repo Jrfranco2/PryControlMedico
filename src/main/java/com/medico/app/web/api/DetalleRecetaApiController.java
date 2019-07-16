@@ -11,7 +11,6 @@ import org.springframework.web.bind.annotation.RestController;
 import com.medico.app.web.models.entities.DetalleReceta;
 import com.medico.app.web.models.entities.Receta;
 import com.medico.app.web.models.services.IDetalleRecetaService;
-import com.medico.app.web.models.services.IRecetaService;
 
 @RestController
 @RequestMapping(value="/api")
